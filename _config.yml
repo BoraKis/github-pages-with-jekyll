@@ -1,13 +1,18 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Welcome to my blog!
+author: Bora KIŞ
+email: izzetkis@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I was born on October 4, 1998 in Ankara. After completing my primary
+  and high school education here, I was entitled to enter the
+  Department of Biomedical Engineering at Düzce University in 2016
+  and still continue my education life. I will complete my undergraduate
+  period in June 2020. I am particularly interested in machine learning,
+  deep learning, artificial intelligence, digital signal
+  processing and image processing.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: izzetborakis
+github_username:  BoraKis
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
+theme: minima
